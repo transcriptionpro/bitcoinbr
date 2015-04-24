@@ -7,3 +7,4 @@ This site is about Bitcoin in Brazil.
 Please leave your initials in this Readme.md file.
 
 ### Initials
+CS
